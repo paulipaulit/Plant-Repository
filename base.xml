@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flowers>
+ <flower name="storczyk">
+  <name>
+   storczyk
+  </name>
+  <species>
+   storczykowate
+  </species>
+  <type>
+   wewnętrzna
+  </type>
+  <position>
+   słoneczne
+  </position>
+  <humidity>
+   wysoka
+  </humidity>
+  <fertilize>
+   nawóz raz w miesiącu
+  </fertilize>
+  <temperature>
+   20-22
+  </temperature>
+ </flower>
+ <flower name="kaktus">
+  <name>
+   kaktus
+  </name>
+  <species>
+   sukulent
+  </species>
+  <type>
+   wewnętrzna
+  </type>
+  <position>
+   słoneczne
+  </position>
+  <humidity>
+   niska
+  </humidity>
+  <fertilize>
+   nie trzeba nawosić
+  </fertilize>
+  <temperature>
+   25-35
+  </temperature>
+ </flower>
+ <flower name="skrzydlokwiat">
+  <name>
+   skrzydłokwiat
+  </name>
+  <species>
+   obrazkowate
+  </species>
+  <type>
+   wewnętna
+  </type>
+  <position>
+   półcień
+  </position>
+  <humidity>
+   wysoka
+  </humidity>
+  <fertilize>
+   nawóz raz w tygodniu
+  </fertilize>
+  <temperature>
+   18-25
+  </temperature>
+ </flower>
+ <flower name="peonia">
+  <name>
+   peonia
+  </name>
+  <species>
+   naczyniowe
+  </species>
+  <type>
+   zewnętrzna
+  </type>
+  <position>
+   półcień
+  </position>
+  <humidity>
+   umiarkowana
+  </humidity>
+  <fertilize>
+   nawóz raz przed kwitnieniem
+  </fertilize>
+  <temperature>
+   18-25
+  </temperature>
+ </flower>
+</flowers>
