@@ -1,11 +1,11 @@
 # Plant Repository
 
 ## Contents
-1. About project
-2. How to use program
-    a. Techincal parameters
-    b. Working with program
-3. Project expantion plan
+- About project
+- How to use program
+    - Techincal parameters
+    - Working with program
+- Project expantion plan
 
 ## About project
 Plant Repository is a simple program, which allows in simple way to know the basic parameters of selected plants.
