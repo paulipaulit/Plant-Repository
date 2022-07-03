@@ -39,11 +39,10 @@ The user chooses what he wants to do. Currently, there are options:
 ## Project expantion plan
 This program is under construction. Below I present ideas on how I want to develop my project. If you have any other suggestions, please feel free to contact me :)
 
-1. New functionalities:
-a. The ability to remove plants from the base
-b. Possibility to search plants by their parameters
-2. Graphic design - operating the program from the window level (not from the console)
-3. Restricting users' rights (reading the database separately, editing the database separately)
+1. New functionality: The ability to remove plants from the base
+2. New functionality: Possibility to search plants by their parameters
+3. Graphic design - operating the program from the window level (not from the console)
+4. Restricting users' rights (reading the database separately, editing the database separately)
 
 ### Thank you very much for your interest in my program!
 
